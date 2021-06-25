@@ -4,7 +4,7 @@
 ###===###
 This repository is reserved for our CLVISION CVPR2021 workshop paper 
 "Plastic and Stable Gated Classifiers for Continual Learning".
-(https://openaccess.thecvf.com/content/CVPR2021W/CLVision/papers/Kuo_Plastic_and_Stable_Gated_Classifiers_for_Continual_Learning_CVPRW_2021_paper.pdf)
+(https://openaccess.thecvf.com/content/CVPR2021W/CLVision/html/Kuo_Plastic_and_Stable_Gated_Classifiers_for_Continual_Learning_CVPRW_2021_paper.html)
 
 ###===###
 We provide 7 scripts in the "Codes" folder.
